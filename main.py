@@ -80,7 +80,7 @@ rooms = []
 isOn = True
 playerInventory = []
 
-# Set up *************************************************
+# Set up ************************************************
 
 # printIntro()
 createRooms()
